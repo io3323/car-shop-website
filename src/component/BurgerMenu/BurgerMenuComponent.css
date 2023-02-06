@@ -1,0 +1,39 @@
+.BurgerListContainer {
+    margin-top: -1.5%;
+    margin-left: 13.7%;
+    width: 50%;
+    position: absolute;
+    display: flex;
+}
+
+.MainMenuList {
+    width: 35%;
+    height: 60%;
+    background-color: white;
+}
+
+.DataCategory {
+    font-size: 20px;
+}
+
+.DataCategory:hover {
+    background-color: rgba(30, 31, 34, 0.22);
+}
+
+.NestCF {
+    flex: 1;
+    background-color: white;
+}
+
+.MassiveElement {
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+    width: 30%;
+    min-height: 50px;
+
+}
+
+.TextMassiveElement {
+    font-size: 20px;
+}

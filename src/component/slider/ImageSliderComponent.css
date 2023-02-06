@@ -1,0 +1,35 @@
+.MainSliderContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.ImageSliderStyle{
+    width: 80%;
+    height: 300px;
+    aspect-ratio: auto;
+    border-radius: 10px;
+}
+
+.LeftIconStyle{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 26%;
+    left: 5%;
+}
+
+.LeftIconStyle:hover{
+    opacity: 50%;
+}
+
+.RightIconStyle{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    right: 5%;
+    top: 26%;
+}
+
+.RightIconStyle:hover{
+    opacity: 50%;
+}

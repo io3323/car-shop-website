@@ -1,0 +1,238 @@
+{
+  "mainMenu": [
+    {
+      "nameCategory": "Шины и диски",
+      "categoryData": [
+        {
+          "name": "Шины",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Диски",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Камеры",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameCategory": "Масла и автохимия",
+      "categoryData": [
+        {
+          "name": "Масла",
+          "data": [
+            {
+              "nameElement": "Гидравлические",
+              "url": ""
+            },
+            {
+              "nameElement": "Моторные",
+              "url": ""
+            },
+            {
+              "nameElement": "Промывочные",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Жидкости",
+          "data": [
+            {
+              "nameElement": "Охлаждающие",
+              "url": ""
+            },
+            {
+              "nameElement": "Стеклоомывающие",
+              "url": ""
+            },
+            {
+              "nameElement": "Тормозные",
+              "url": ""
+            }
+          ]
+        },
+
+        {
+          "name": "Присадки",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameCategory": "Электрооборудование",
+      "categoryData": [
+        {
+          "name": "Аккамуляторы",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Батарейки",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Лампы",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Мойка высокого давления",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Провода пусковые",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Видерегистраторы",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Проитивоугонные устройства",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Прогреватель двигателя",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameCategory": "Инструменты",
+      "categoryData": [
+        {
+          "name": "Ключи",
+          "data": [
+            {
+              "nameElement": "Манометр AirLine",
+              "url": "https://emex.ru/_next/image?url=%2Fstatic%2Fimages%2Fmain-page-best-offers%2Fpic-airline%403x.png&w=384&q=75"
+            },
+            {
+              "nameElement": "Щетки",
+              "url": "https://emex.ru/_next/image?url=%2Fstatic%2Fimages%2Fmain-page-best-offers%2Fpic-aerotwin-retro.png&w=384&q=75"
+            },
+            {
+              "nameElement": "Пылесос моющий",
+              "url": "https://emex.ru/_next/image?url=%2Fstatic%2Fimages%2Fmain-page-best-offers%2Fpic-karcher%402x.png&w=384&q=75"
+            },
+            {
+              "nameElement": "Свеча зажигания",
+              "url": "https://emex.ru/_next/image?url=%2Fstatic%2Fimages%2Fmain-page-best-offers%2Fpic-denso%402x.webp&w=384&q=75"
+            }
+          ]
+        },
+        {
+          "name": "Домкраты",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Компресоры",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nameCategory": "Интерьер",
+      "categoryData": [
+        {
+          "name": "Ароматизаторы",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Пылесосы",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Автокресла",
+          "data": [
+            {
+              "nameElement": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
